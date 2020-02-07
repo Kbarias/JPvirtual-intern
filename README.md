@@ -1,2 +1,2 @@
 # JPvirtual-intern
-This repository is one of tasks completed for the JPMorgan Chase and Co Software Engineering Virtual Internship.
+These tasks include using Python to allow for traders to see stock information visually.
